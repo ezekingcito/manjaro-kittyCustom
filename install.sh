@@ -11,7 +11,10 @@ sudo pacman -Syy
 sudo pacman -Syu
 
 #Instalando dependencias basicas
-sudo pacman -S curl wget neofetch
+sudo pacman -S curl wget neofetch yay
+
+#Instalando bat
+yay -S bat
 
 # Instalando p10k
 
